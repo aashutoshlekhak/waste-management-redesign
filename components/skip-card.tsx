@@ -33,15 +33,15 @@ const colorVariants = [
 ];
 
 const skipImages = [
-  "/trashcan.jpg",
-  "/trashcan2.webp",
-  "/trashcan3.jpg",
-  "/trashcan4.jpg",
-  "/trashcan6.jpeg",
-  "/trashcan7.webp",
-  "trashcan10.jpg",
-  "/trashcan.jpg",
-  "/trashcan3.jpg",
+  "/4-yard.jpg",
+  "/5-12-yard.jpg",
+  "/5-12-yard.jpg",
+  "/5-12-yard.jpg",
+  "/5-12-yard.jpg",
+  "/14-yard.jpg",
+  "/16-yard.jpg",
+  "/20-yard.jpg",
+  "/40-yard.jpg",
 ];
 
 export default function SkipCard({
