@@ -2,6 +2,7 @@
 
 Redesigned Skip Size page.
 
+Live URL: https://waste-management-redesign.vercel.app/
 
 ## ✨ New Features & Enhancements
 
